@@ -29,7 +29,7 @@ Realizar los siguientes pasos para deployar el proyecto:
 #### 1. Clone the repo
 
 ```sh
-git clone https://github.com/nilcia/PreEntrega2Valdez.git
+git clone https://github.com/nilcia/ProyectoFinalValdez.git
 ```
 
 #### 2. Install NPM packages
