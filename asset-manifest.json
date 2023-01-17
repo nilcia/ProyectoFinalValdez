@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ProyectoFinalValdez/static/css/main.6b2d6e2b.css",
-    "main.js": "/ProyectoFinalValdez/static/js/main.95c3ff32.js",
+    "main.js": "/ProyectoFinalValdez/static/js/main.c0735dfe.js",
     "static/media/sucu2.png": "/ProyectoFinalValdez/static/media/sucu2.a5f60a01c08437da069f.png",
     "static/media/sucu3.png": "/ProyectoFinalValdez/static/media/sucu3.62a5426201c1c4754504.png",
     "static/media/cactus2.png": "/ProyectoFinalValdez/static/media/cactus2.792ec2299dc3b62ad848.png",
@@ -12,10 +12,10 @@
     "static/media/sucu1.png": "/ProyectoFinalValdez/static/media/sucu1.db146b88efcfbc95b992.png",
     "index.html": "/ProyectoFinalValdez/index.html",
     "main.6b2d6e2b.css.map": "/ProyectoFinalValdez/static/css/main.6b2d6e2b.css.map",
-    "main.95c3ff32.js.map": "/ProyectoFinalValdez/static/js/main.95c3ff32.js.map"
+    "main.c0735dfe.js.map": "/ProyectoFinalValdez/static/js/main.c0735dfe.js.map"
   },
   "entrypoints": [
     "static/css/main.6b2d6e2b.css",
-    "static/js/main.95c3ff32.js"
+    "static/js/main.c0735dfe.js"
   ]
 }
