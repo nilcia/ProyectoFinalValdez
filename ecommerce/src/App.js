@@ -16,10 +16,10 @@ export default function App() {
         <NavbarMenu />
         {/* <ItemListContainer greeting="Hola, haz comprado suculentas!" /> */}
         <Routes>
-          <Route exact path="/" element={<Home />} />
-          <Route exact path="/category/:id" element={<Suculents />} />
-          <Route exact path="/item/:id" element={<SuculentId />} />
-          <Route exact path="/cart" element={<Cart />} />
+          <Route exact path="/ProyectoFinalValdez/" element={<Home />} />
+          <Route exact path="/ProyectoFinalValdez/category/:id" element={<Suculents />} />
+          <Route exact path="/ProyectoFinalValdez/item/:id" element={<SuculentId />} />
+          <Route exact path="/ProyectoFinalValdez/cart" element={<Cart />} />
         </Routes>
       </BrowserRouter>
     </CartProvider>

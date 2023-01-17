@@ -8,7 +8,7 @@ import NumberFormat from '../Utils/NumberFormat';
 const sucu = require.context("../../image", true);
 const Item = ({ item }) => {
     return (
-        <Link to={`/item/${item.id}`} style={{textDecoration:"none"}}>
+        <Link to={`/ProyectoFinalValdez/item/${item.id}`} style={{textDecoration:"none"}}>
             
             <Col  md="auto">
                 <Card border="secondary" className="d-flex justify-content-center card-container">

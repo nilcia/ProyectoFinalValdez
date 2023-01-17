@@ -34,7 +34,7 @@ const ItemCount = ({ onClick, stock, isInCart }) => {
           {isInCart ?
             <div>
               <p>El artículo ya fué agregado!!!</p>
-              <Link to={`/cart`} style={{ textDecoration: "none" }}>
+              <Link to={`/ProyectoFinalValdez/cart`} style={{ textDecoration: "none" }}>
                 <Button variant="dark">Terminar mi compra</Button>
               </Link>
             </div>

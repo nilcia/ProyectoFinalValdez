@@ -7,7 +7,7 @@ const CardWidget = () => {
     const { totalQuantity } = useContext(CartContext);
     return (
         <div>
-            < Link to={`/cart`} style={{ textDecoration: "none" }}>
+            < Link to={`/ProyectoFinalValdez/cart`} style={{ textDecoration: "none" }}>
 
                 <p><Cart
                     color="white"

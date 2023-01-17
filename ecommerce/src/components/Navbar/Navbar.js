@@ -12,13 +12,13 @@ const NavbarMenu = () => {
       <Navbar sticky="top" collapseOnSelect expand="lg" bg="dark" variant="dark" style={{padding: "0px"}}>
         <Container>
           <Navbar.Brand href="#home">
-            <Link to="/" style={{textDecoration:"none", color:"#28B463"}}>ñañotysucus</Link>
+            <Link to="/ProyectoFinalValdez/" style={{textDecoration:"none", color:"#28B463"}}>ñañotysucus</Link>
             </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="me-auto">
-              <Link style={{textDecoration:"none"}} to="/category/1"><Nav.Link href="#echecerias" >Echeverias</Nav.Link></Link>
-              <Link style={{textDecoration:"none"}} to="/category/2"><Nav.Link href="#cactus" >Cactus</Nav.Link></Link>
+              <Link style={{textDecoration:"none"}} to="/ProyectoFinalValdez/category/1"><Nav.Link href="#echecerias" >Echeverias</Nav.Link></Link>
+              <Link style={{textDecoration:"none"}} to="/ProyectoFinalValdez/category/2"><Nav.Link href="#cactus" >Cactus</Nav.Link></Link>
             </Nav>
             <Nav>
               <Nav.Link href="#cart">
