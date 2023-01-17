@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/nilcia/ProyectoFinalValdez/tree/main/ecommerce/static/css/main.6b2d6e2b.css",
+    "main.js": "/nilcia/ProyectoFinalValdez/tree/main/ecommerce/static/js/main.27b41e15.js",
+    "static/media/sucu2.png": "/nilcia/ProyectoFinalValdez/tree/main/ecommerce/static/media/sucu2.a5f60a01c08437da069f.png",
+    "static/media/sucu3.png": "/nilcia/ProyectoFinalValdez/tree/main/ecommerce/static/media/sucu3.62a5426201c1c4754504.png",
+    "static/media/cactus2.png": "/nilcia/ProyectoFinalValdez/tree/main/ecommerce/static/media/cactus2.792ec2299dc3b62ad848.png",
+    "static/media/cactus3.png": "/nilcia/ProyectoFinalValdez/tree/main/ecommerce/static/media/cactus3.199a9886355397eccdb8.png",
+    "static/media/sucu4.png": "/nilcia/ProyectoFinalValdez/tree/main/ecommerce/static/media/sucu4.a06fc85d7607e3d90f5b.png",
+    "static/media/cactus1.png": "/nilcia/ProyectoFinalValdez/tree/main/ecommerce/static/media/cactus1.5c0cd1612017d16b398a.png",
+    "static/media/suculenta.jpg": "/nilcia/ProyectoFinalValdez/tree/main/ecommerce/static/media/suculenta.d088d6cb398f93a21082.jpg",
+    "static/media/sucu1.png": "/nilcia/ProyectoFinalValdez/tree/main/ecommerce/static/media/sucu1.db146b88efcfbc95b992.png",
+    "index.html": "/nilcia/ProyectoFinalValdez/tree/main/ecommerce/index.html",
+    "main.6b2d6e2b.css.map": "/nilcia/ProyectoFinalValdez/tree/main/ecommerce/static/css/main.6b2d6e2b.css.map",
+    "main.27b41e15.js.map": "/nilcia/ProyectoFinalValdez/tree/main/ecommerce/static/js/main.27b41e15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b2d6e2b.css",
+    "static/js/main.27b41e15.js"
+  ]
+}
